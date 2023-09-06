@@ -275,4 +275,9 @@ footer ul {
     text-align: left;
     margin-right: auto;
   }
+
+  #projects {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
 }
